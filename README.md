@@ -1,1 +1,1 @@
-# exercicios-js-3
+# lista de exercicios
